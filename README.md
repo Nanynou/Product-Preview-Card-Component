@@ -2,3 +2,5 @@
 Challenge of the day after a few months without doing web development ! 🥴
 
 Creating a product preview cart component. Challenge proposed by Frontend Mentor ! 😉🙃
+
+https://product-preview-cart-nanynou.netlify.app/
